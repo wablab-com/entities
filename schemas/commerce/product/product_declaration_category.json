@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "id": {"type": "integer"},
+    "product_id": {"type":  "integer"},
+    "taxonomy_id": {"type":  "integer"}
+  },
+  "abstract": true
+}

@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "id": {"type": "integer"},
+    "price_currency": {"type":  "string"},
+    "price": {"type":  "decimal"}
+  },
+  "abstract": true
+}

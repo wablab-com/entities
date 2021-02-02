@@ -1,0 +1,7 @@
+{
+  "attributes": {
+    "id": {"type": "integer"},
+    "type": {"type":  "string", "description":  "this can contains the media type like [youtube video, image, file]"},
+    "description": {"type":  "text", "description": "this can contains the media value like image url, file path, youtube embedding code"}
+  }
+}

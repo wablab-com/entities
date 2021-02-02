@@ -1,0 +1,9 @@
+{
+  "attributes" : {
+    "id": {"type": "integer"},
+    "date": {"type": "date"},
+    "time": {"type": "time"},
+    "description": {"type": "text"},
+    "type": {"type": "enum", "type_list": ["debit", "credit"], "default_value": "debit"}
+  }
+}

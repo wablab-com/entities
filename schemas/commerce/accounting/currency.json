@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "id": {"type": "integer"},
+    "name": {"type": "string"},
+    "code": {"type":  "string"},
+    "symbol": {"type":  "string"}
+  }
+}
