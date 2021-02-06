@@ -1,8 +1,0 @@
-{
-  "attributes": {
-    "id": {"type": "integer"},
-    "name": {"type":  "string"},
-    "description": {"type":  "text"}
-  },
-  "abstract": true
-}

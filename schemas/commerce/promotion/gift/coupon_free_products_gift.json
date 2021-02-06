@@ -1,0 +1,6 @@
+{
+  "attributes" : {
+    "product_ids": {"type": "json", "description":  "This will contains a list of inclusive product ids"}
+  },
+  "extends": "coupon_gift"
+}

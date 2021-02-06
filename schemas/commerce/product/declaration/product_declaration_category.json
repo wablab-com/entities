@@ -1,0 +1,6 @@
+{
+  "attributes": {
+    "product_declaration_id": {"type":  "string"},
+    "taxonomy_id": {"type":  "string"}
+  }
+}

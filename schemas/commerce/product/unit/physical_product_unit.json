@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "return_policy": {"type":  "text"},
+    "in_stock": {"type":  "integer", "description": "null means unlimited"},
+    "condition": {"type": "string", "default_value": "new"}
+  },
+  "extends": "product_unit"
+}

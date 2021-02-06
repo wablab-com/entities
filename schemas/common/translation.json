@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "translation_key": {"type":  "string"},
+    "language_id": {"type":  "string"},
+    "country_id": {"type":  "string", "description": "This field is optional, it can be used to get the localized translation"},
+    "translation": {"type": "text"}
+  }
+}

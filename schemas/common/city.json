@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "name": {"type":  "string"},
+    "country_id": {"type":  "string"},
+    "longitude": {"type": "decimal"},
+    "latitude": {"type": "decimal"}
+  }
+}

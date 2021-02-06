@@ -1,8 +1,8 @@
 {
   "attributes": {
-    "id": {"type": "integer"},
     "name": {"type": "string"},
     "code": {"type":  "string"},
-    "symbol": {"type":  "string"}
+    "symbol": {"type":  "string"},
+    "usd_exchange_rate": {"type": "decimal"}
   }
 }

@@ -1,8 +1,0 @@
-{
-  "attributes": {
-    "id": {"type": "integer"},
-    "product_declaration_id": {"type": "integer", "relation":  "commerce/product/product_unit", "relation_type": "one-many"},
-    "media_id": {"type": "integer", "relation":  "common/media", "relation_type": "one-many"},
-    "sort_order": {"type":  "integer"}
-  }
-}

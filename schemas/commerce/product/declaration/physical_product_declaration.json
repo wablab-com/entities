@@ -1,0 +1,11 @@
+{
+  "attributes": {
+    "weight_gram": {"type":  "decimal"},
+    "width_cm": {"type":  "decimal"},
+    "height_cm": {"type":  "decimal"},
+    "depth_cm": {"type":  "decimal"},
+    "sku": {"type": "string"},
+    "barcode": {"type": "string"}
+  },
+  "extends": "product_declaration"
+}

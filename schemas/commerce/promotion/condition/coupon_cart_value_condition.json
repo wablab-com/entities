@@ -1,0 +1,6 @@
+{
+  "attributes" : {
+    "value": {"type": "decimal"}
+  },
+  "extends": "coupon_condition"
+}

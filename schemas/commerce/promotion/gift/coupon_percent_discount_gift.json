@@ -1,0 +1,6 @@
+{
+  "attributes" : {
+    "percent": {"type": "decimal"}
+  },
+  "extends": "coupon_gift"
+}

@@ -1,8 +1,7 @@
 {
   "attributes": {
-    "id": {"type": "integer"},
     "name": {"type":  "string"},
     "description": {"type":  "text"},
-    "parent": {"type":  "common/taxonomy", "relation":  "many-one"}
+    "parent_taxonomy_id": {"type": "string"}
   }
 }

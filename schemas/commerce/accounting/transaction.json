@@ -1,6 +1,5 @@
 {
   "attributes" : {
-    "id": {"type": "integer"},
     "date": {"type": "date"},
     "time": {"type": "time"},
     "description": {"type": "text"},

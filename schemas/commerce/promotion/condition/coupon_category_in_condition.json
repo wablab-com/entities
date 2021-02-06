@@ -1,0 +1,6 @@
+{
+  "attributes" : {
+    "category_ids": {"type": "json", "description":  "This will contains a list of inclusive category ids"}
+  },
+  "extends": "coupon_condition"
+}

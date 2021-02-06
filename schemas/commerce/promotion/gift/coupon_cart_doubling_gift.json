@@ -1,0 +1,6 @@
+{
+  "attributes" : {
+    "doubling_time": {"type": "integer", "default": 1}
+  },
+  "extends": "coupon_gift"
+}

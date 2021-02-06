@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "name": {"type":  "string"},
+    "city_id": {"type":  "string"},
+    "longitude": {"type": "decimal"},
+    "latitude": {"type": "decimal"}
+  }
+}

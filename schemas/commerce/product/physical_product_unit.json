@@ -1,9 +1,0 @@
-{
-  "attributes": {
-    "return_policy": {"type":  "text"},
-    "stock": {"type":  "integer"},
-    "condition": {"type": "string", "default_value": "new"},
-    "sku": {"type": "string"}
-  },
-  "extends": "product_unit"
-}
