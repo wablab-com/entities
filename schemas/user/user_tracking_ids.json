@@ -1,0 +1,6 @@
+{
+  "attributes": {
+    "user_id": {"type":  "string"},
+    "tracking_identifier_id": {"type":  "string"}
+  }
+}

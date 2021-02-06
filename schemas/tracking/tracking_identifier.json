@@ -1,0 +1,5 @@
+{
+  "attributes": {
+    "created_at": {"type": "datetime"}
+  }
+}

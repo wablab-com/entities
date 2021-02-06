@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "first_name": {"type":  "string"},
+    "last_name": {"type":  "string"},
+    "country_id": {"type":  "string"},
+    "date_of_birth": {"type": "date"},
+    "username": {"type":  "string"},
+    "email_address": {"type":  "string"},
+    "phone_number": {"type":  "string"},
+    "password": {"type":  "string"},
+    "last_access": {"type":  "datetime"}
+  }
+}

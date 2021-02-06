@@ -1,0 +1,15 @@
+{
+  "attributes": {
+    "tracking_identifier_id" : {"type": "string"},
+    "ip_address" : {"type": "string"},
+    "country_code" : {"type": "string", "length": 2},
+    "lang_code" : {"type": "string"},
+    "request_method" : {"type": "string"},
+    "request_url" : {"type": "text"},
+    "cookies" : {"type": "json"},
+    "user_agent" : {"type": "text"},
+    "request_params" : {"type": "json", "description": "Make sure to delete all critical data from this field, like credit card number or passwords"},
+    "type": {"type": "string", "description":  "This can be a short descriptive word like 'first_visit', 'login', 'registration', 'general' ...etc"},
+    "created_at" : {"type": "datetime"}
+  }
+}
