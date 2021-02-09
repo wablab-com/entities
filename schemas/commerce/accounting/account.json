@@ -1,6 +1,7 @@
 {
   "attributes": {
-    "name": {"type": "string"},
+    "name": {"type": "translation"},
+    "description": {"type": "translation"},
     "currency_id": {"type":  "string"}
   }
 }

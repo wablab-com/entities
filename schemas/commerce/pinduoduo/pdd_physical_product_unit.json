@@ -1,0 +1,6 @@
+{
+  "attributes": {
+    "group_price": {"type":  "decimal"}
+  },
+  "extends": "physical_product_unit"
+}

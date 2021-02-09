@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "product_unit_id": {"type": "string"},
+    "price": {"type": "decimal"},
+    "price_currency_id": {"type": "string"},
+    "quantity": {"type": "integer"}
+  }
+}

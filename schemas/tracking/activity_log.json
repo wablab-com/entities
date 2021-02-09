@@ -1,10 +1,12 @@
 {
   "attributes": {
-    "tracking_identifier_id" : {"type": "string"},
+    "visitor_id" : {"type": "string"},
     "ip_address" : {"type": "string"},
     "country_code" : {"type": "string", "length": 2},
-    "lang_code" : {"type": "string"},
-    "request_method" : {"type": "string"},
+    "country_id" : {"type": "string", "description": "In reference to countries collection"},
+    "language_code" : {"type": "string"},
+    "language_id" : {"type": "string", "description": "In reference to languages collection"},
+    "request_method" : {"type": "string", "description": "GET, POST, DELETE, PUT, ... etc"},
     "request_url" : {"type": "text"},
     "cookies" : {"type": "json"},
     "user_agent" : {"type": "text"},

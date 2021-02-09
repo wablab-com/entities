@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "group_id": {"type":  "string"},
+    "inviter_id": {"type": "string", "description": "The user id who makes this invitation"},
+    "invitation_hash": {"type": "string", "description": "To be used in the invitation url"},
+    "created_at": {"type": "datetime"}
+  }
+}

@@ -1,6 +1,6 @@
 {
   "attributes": {
     "user_id": {"type":  "string"},
-    "tracking_identifier_id": {"type":  "string"}
+    "visitor_id": {"type":  "string", "description": "This should be mapped once the user logs in"}
   }
 }

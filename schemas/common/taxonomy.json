@@ -1,7 +1,7 @@
 {
   "attributes": {
-    "name": {"type":  "string"},
-    "description": {"type":  "text"},
+    "name": {"type":  "translation"},
+    "description": {"type":  "translation"},
     "parent_taxonomy_id": {"type": "string"}
   }
 }

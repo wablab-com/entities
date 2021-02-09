@@ -1,7 +1,7 @@
 {
   "attributes": {
-    "name": {"type":  "string"},
-    "description": {"type":  "text"},
+    "title": {"type":  "translation"},
+    "description": {"type":  "translation"},
     "store_id": {"type": "string", "description":  "This field will show that this product can be used specifically for this store, if the value is null, then all stores can use it when create a new unit"}
   },
   "abstract": true

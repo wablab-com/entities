@@ -1,6 +1,6 @@
 {
   "attributes": {
-    "name": {"type":  "string"},
+    "name": {"type":  "translation"},
     "alpha2_code": {"type":  "string", "length":  2},
     "alpha3_code": {"type":  "string", "length":  3},
     "phone_code": {"type":  "integer"}

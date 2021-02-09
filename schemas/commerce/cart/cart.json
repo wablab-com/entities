@@ -1,0 +1,7 @@
+{
+  "attributes": {
+    "owner_id": {"type": "string", "description": "This will hold the owner user_id after his login"},
+    "visitor_id": {"type": "string"},
+    "coupon_id": {"type": "string"}
+  }
+}

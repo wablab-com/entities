@@ -1,0 +1,7 @@
+{
+  "attributes": {
+    "group_id": {"type":  "string"},
+    "user_id": {"type": "string"},
+    "joined_at": {"type": "datetime"}
+  }
+}

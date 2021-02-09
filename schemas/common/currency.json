@@ -1,7 +1,7 @@
 {
   "attributes": {
-    "name": {"type": "string"},
-    "code": {"type":  "string"},
+    "name": {"type": "translation"},
+    "code": {"type":  "translation"},
     "symbol": {"type":  "string"},
     "usd_exchange_rate": {"type": "decimal"}
   }

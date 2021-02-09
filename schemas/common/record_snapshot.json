@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "original_record_id": {"type":  "string"},
+    "created_by": {"type":  "string"},
+    "description": {"type":  "text"},
+    "pre_modified_record_data": {"type": "json", "description": "This will be used to save the record values before it was modified"}
+  }
+}

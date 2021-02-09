@@ -1,6 +1,6 @@
 {
   "attributes": {
-    "name": {"type":  "string"},
+    "name": {"type":  "translation"},
     "country_id": {"type":  "string"},
     "longitude": {"type": "decimal"},
     "latitude": {"type": "decimal"}

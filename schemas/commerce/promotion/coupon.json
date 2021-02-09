@@ -1,11 +1,10 @@
 {
   "attributes" : {
-    "name": {"type": "string"},
-    "description": {"type": "description"},
+    "name": {"type": "translation"},
+    "description": {"type": "translation"},
     "coupon_code": {"type": "string", "description":  "The coupon code is optional, if you specify this field, then it will be applied only for those who used it."},
     "effective_in": {"type":  "datetime", "description": "The time where this coupon can be used, null means immediately"},
     "expiry": {"type":  "datetime", "description": "The time where this coupon can be stopped, null means never"},
-    "usage_count": {"type":  "integer", "description":  "The number of times it is allowed to use this coupon, 0 means that is no limit"},
-    "parent_id": {"type":  "string", "description":  "This coupon cannot be applied until the parent coupon condition fulfilled."}
+    "usage_count": {"type":  "integer", "description":  "The number of times it is allowed to use this coupon, 0 means that is no limit"}
   }
 }
